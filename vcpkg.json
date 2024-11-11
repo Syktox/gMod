@@ -1,5 +1,8 @@
 {
   "dependencies": [
-    "dxsdk-d3dx"
+    "dxsdk-d3dx",
+    "libzippp",
+    "minhook",
+    "ms-gsl"
   ]
 }
